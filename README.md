@@ -42,6 +42,5 @@ A fun Valentine-themed number lottery game where users enter names and numbers (
 ## 🚀 Future Improvements
 
 - Let me know :D
->>>>>>> e43f159a5c7f33ebf7bc1547b6e9280071cfc953
 
 Made with 💖 for Valentine's Day
